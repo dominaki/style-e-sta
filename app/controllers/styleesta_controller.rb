@@ -1,0 +1,4 @@
+class StyleestaController < ApplicationController
+ 
+  
+end
